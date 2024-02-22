@@ -32,7 +32,8 @@ Caso você opte por utilizar este código no Google Colaboratory é necessário 
 
 ### ⚙️ Modelo de previsão de preço criado ao final do projeto
 
-Este repositório conta com um arquivo pkl chamado "modelo_rfr_file". Em virtude da limitação de upload de arquivos do gitbub, este arquivo pode ser baixado em: https://drive.google.com/file/d/1Ooe-jJBVVp6rpRHxV_ZKhtUFuZXOsiDo/view?usp=sharing
+Este repositório conta com um arquivo pkl chamado "modelo_rfr_file". Em virtude da limitação de upload de arquivos do gitbub, este arquivo pode ser baixado em:  
+https://drive.google.com/file/d/1Ooe-jJBVVp6rpRHxV_ZKhtUFuZXOsiDo/view?usp=sharing  
 Este arquivo contém o modelo treinado durante este projeto. Caso o seu intuíto seja somente utilizar o modelo para previsão de preços é possível carregá-lo em seu próprio notebook com o seguinte código:
 
 *import pickle*  
